@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!: My First Blog Post on GitHub! 
+title: "Hello World!: My First Blog Post on GitHub!" 
 date: 2019-10-03
 ---
 
